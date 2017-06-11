@@ -11,3 +11,5 @@ Delete the DeltaDizzy and blackheart folders from Kerbal Space Program\GameData 
 LICENSE:
 
 CC BY-NC-SA 4.0 for all images provided.
+GPLv3 for all code and models provided courtesy of blackheart612.
+(I don't need his permission but I wanted it anyway)
