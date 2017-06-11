@@ -8,6 +8,7 @@ To Update:
 
 Delete the DeltaDizzy and blackheart folders from Kerbal Space Program\GameData and Install the newer version.
 
+This mod contains modified configuration files. They were modified on June 11, 2017.
 LICENSE:
 
 CC BY-NC-SA 4.0 for all images provided.
