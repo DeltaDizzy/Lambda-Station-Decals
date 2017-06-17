@@ -1,4 +1,4 @@
-Lambda Station Decals v0.2 "BETA" for KSP v1.2.2/1.3.0
+Lambda Station Decals v0.2.1 for KSP v1.2.2/1.3.0
 
 To Install:
 
@@ -14,5 +14,7 @@ LICENSE:
 
 CC BY-NC-SA 4.0 for all images provided.
 
-GPLv3 for all code and models provided courtesy of blackheart612.
+GPLv3 for all modified files
+
+GPLv3 for all of blackheart612's code and models.
 (Apparently, I don't need his permission. I decided to get it anyway.)
