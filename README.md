@@ -1,5 +1,6 @@
 Lambda Station Decals v0.2.1 for KSP v1.2.2/1.3.0
 
+All of cratercracker's pictures are his own, and have not been modified.
 To Install:
 
 Place the DeltaDizzy and blackheart folders inside Kerbal Space Program\GameData
